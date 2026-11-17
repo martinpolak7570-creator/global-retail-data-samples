@@ -1,0 +1,151 @@
+Auth_Entry_ID,Category,Brand,Model,Authenticity_Label,Inspection_Zone,Anomaly_Type,Material_Spec,Weight_Grams_Delta,Risk_Severity_Score
+AUTH-00001,Luxury Handbags,Louis Vuitton,Neverfull MM Monogram,AUTHENTIC,Interior_Heat_Stamp,Sharp_Round_O_Characteristic_Font,Coated_Canvas_Vachetta_Leather,0.0,1.9
+AUTH-00002,High Horology,Patek Philippe,Nautilus 5711/1A-010,COUNTERFEIT_REPLICA,Bracelet_Integration,Stiff_Links_Visible_Pin_Gaps,Stainless_Steel_Sapphire,-8.44,7.8
+AUTH-00003,High Horology,Rolex,Submariner Date 126610LN,AUTHENTIC,Lume_Application,Chromalight_Blue_Even_Fill,904L_Oystersteel_Cerachrom,0.0,1.8
+AUTH-00004,Luxury Handbags,Louis Vuitton,Neverfull MM Monogram,COUNTERFEIT_REPLICA,Canvas_Symmetry,Cut_Off_LV_Logo_Asymmetric_Pattern,Coated_Canvas_Vachetta_Leather,-36.21,7.9
+AUTH-00005,High Horology,Rolex,Submariner Date 126610LN,AUTHENTIC,Rehaut_Engraving,Laser_Etched_Aligned_Minute_Markers,904L_Oystersteel_Cerachrom,0.0,1.5
+AUTH-00006,Luxury Handbags,Hermès,Birkin 25 Togo Noir,COUNTERFEIT_REPLICA,Stitching_Density,Machine_Lockstitch_Straight_Line,Togo_Calfskin_Palladium_Hardware,-14.13,7.0
+AUTH-00007,Luxury Handbags,Hermès,Birkin 25 Togo Noir,AUTHENTIC,Stitching_Density,Hand_Sewn_Saddle_Stitch_18deg_Angle,Togo_Calfskin_Palladium_Hardware,0.0,1.1
+AUTH-00008,Limited Sneakers,Jordan Brand,Air Jordan 1 Retro High Dior,COUNTERFEIT_REPLICA,Swoosh_Jacquard,Low_Res_Blurry_Oblique_Spacing,Italian_Calfskin_Jacquard_Swoosh,-12.76,8.5
+AUTH-00009,Fine Jewelry,Cartier,Love Bracelet Classic Yellow Gold,AUTHENTIC,Hallmark_Stamping,Deep_Au750_Serial_Eagle_Head_Stamp,18K_Yellow_Gold_750,0.0,1.0
+AUTH-00010,Luxury Handbags,Hermès,Birkin 25 Togo Noir,COUNTERFEIT_REPLICA,Stitching_Density,Machine_Lockstitch_Straight_Line,Togo_Calfskin_Palladium_Hardware,-15.64,9.5
+AUTH-00011,Luxury Handbags,Hermès,Birkin 25 Togo Noir,AUTHENTIC,Stitching_Density,Hand_Sewn_Saddle_Stitch_18deg_Angle,Togo_Calfskin_Palladium_Hardware,0.0,1.4
+AUTH-00012,High Horology,Rolex,Submariner Date 126610LN,COUNTERFEIT_REPLICA,Cyclops_Lens,Weak_1.5x_Magnification_Blue_Tint,904L_Oystersteel_Cerachrom,0.36,7.4
+AUTH-00013,Fine Jewelry,Cartier,Love Bracelet Classic Yellow Gold,AUTHENTIC,Screw_Motif_Slotting,Sharp_90deg_Crisp_Milled_Grooves,18K_Yellow_Gold_750,0.0,2.2
+AUTH-00014,Limited Sneakers,Jordan Brand,Air Jordan 1 Retro High Dior,COUNTERFEIT_REPLICA,Outsole_Translucency,Cloudy_Grey_Sole_Fuzzy_Logo,Italian_Calfskin_Jacquard_Swoosh,-20.39,8.3
+AUTH-00015,Luxury Handbags,Louis Vuitton,Neverfull MM Monogram,AUTHENTIC,Interior_Heat_Stamp,Sharp_Round_O_Characteristic_Font,Coated_Canvas_Vachetta_Leather,0.0,1.6
+AUTH-00016,Fine Jewelry,Cartier,Love Bracelet Classic Yellow Gold,COUNTERFEIT_REPLICA,Screw_Motif_Slotting,Rounded_Cast_Grooves_Polishing_Dip,18K_Yellow_Gold_750,-4.12,7.6
+AUTH-00017,Luxury Handbags,Louis Vuitton,Neverfull MM Monogram,AUTHENTIC,Interior_Heat_Stamp,Sharp_Round_O_Characteristic_Font,Coated_Canvas_Vachetta_Leather,0.0,2.1
+AUTH-00018,High Horology,Patek Philippe,Nautilus 5711/1A-010,COUNTERFEIT_REPLICA,Date_Window_Frame,Flat_Stamped_Steel_Rough_Edges,Stainless_Steel_Sapphire,-3.33,8.4
+AUTH-00019,Luxury Handbags,Hermès,Birkin 25 Togo Noir,AUTHENTIC,Blind_Stamp_Foil,Clean_Heat_Pressed_Palladium_Foil,Togo_Calfskin_Palladium_Hardware,0.0,2.3
+AUTH-00020,Luxury Handbags,Hermès,Birkin 25 Togo Noir,COUNTERFEIT_REPLICA,Blind_Stamp_Foil,Overheated_Foil_Bleeding_Into_Grain,Togo_Calfskin_Palladium_Hardware,-1.56,9.6
+AUTH-00021,Fine Jewelry,Cartier,Love Bracelet Classic Yellow Gold,AUTHENTIC,Hallmark_Stamping,Deep_Au750_Serial_Eagle_Head_Stamp,18K_Yellow_Gold_750,0.0,1.8
+AUTH-00022,Fine Jewelry,Cartier,Love Bracelet Classic Yellow Gold,COUNTERFEIT_REPLICA,Screw_Motif_Slotting,Rounded_Cast_Grooves_Polishing_Dip,18K_Yellow_Gold_750,-5.58,7.5
+AUTH-00023,Fine Jewelry,Cartier,Love Bracelet Classic Yellow Gold,AUTHENTIC,Hallmark_Stamping,Deep_Au750_Serial_Eagle_Head_Stamp,18K_Yellow_Gold_750,0.0,1.3
+AUTH-00024,Fine Jewelry,Cartier,Love Bracelet Classic Yellow Gold,COUNTERFEIT_REPLICA,Screw_Motif_Slotting,Rounded_Cast_Grooves_Polishing_Dip,18K_Yellow_Gold_750,-5.93,7.3
+AUTH-00025,Luxury Handbags,Louis Vuitton,Neverfull MM Monogram,AUTHENTIC,Canvas_Symmetry,Exact_Monogram_Alignment_Across_Seams,Coated_Canvas_Vachetta_Leather,0.0,2.3
+AUTH-00026,Luxury Handbags,Louis Vuitton,Neverfull MM Monogram,COUNTERFEIT_REPLICA,Vachetta_Glazing,Glossy_Bright_Red_Plastic_Glazing,Coated_Canvas_Vachetta_Leather,-11.34,9.4
+AUTH-00027,High Horology,Rolex,Submariner Date 126610LN,AUTHENTIC,Lume_Application,Chromalight_Blue_Even_Fill,904L_Oystersteel_Cerachrom,0.0,1.4
+AUTH-00028,Fine Jewelry,Cartier,Love Bracelet Classic Yellow Gold,COUNTERFEIT_REPLICA,Screw_Motif_Slotting,Rounded_Cast_Grooves_Polishing_Dip,18K_Yellow_Gold_750,-5.58,7.8
+AUTH-00029,High Horology,Patek Philippe,Nautilus 5711/1A-010,AUTHENTIC,Caliber_Movement,26-330_SC_FreeSprung_Gyromax,Stainless_Steel_Sapphire,0.0,2.1
+AUTH-00030,Fine Jewelry,Cartier,Love Bracelet Classic Yellow Gold,COUNTERFEIT_REPLICA,Screw_Motif_Slotting,Rounded_Cast_Grooves_Polishing_Dip,18K_Yellow_Gold_750,-5.0,9.7
+AUTH-00031,High Horology,Patek Philippe,Nautilus 5711/1A-010,AUTHENTIC,Caliber_Movement,26-330_SC_FreeSprung_Gyromax,Stainless_Steel_Sapphire,0.0,1.7
+AUTH-00032,Luxury Handbags,Hermès,Birkin 25 Togo Noir,COUNTERFEIT_REPLICA,Stitching_Density,Machine_Lockstitch_Straight_Line,Togo_Calfskin_Palladium_Hardware,-13.91,7.7
+AUTH-00033,High Horology,Rolex,Submariner Date 126610LN,AUTHENTIC,Rehaut_Engraving,Laser_Etched_Aligned_Minute_Markers,904L_Oystersteel_Cerachrom,0.0,2.1
+AUTH-00034,Luxury Handbags,Hermès,Birkin 25 Togo Noir,COUNTERFEIT_REPLICA,Blind_Stamp_Foil,Overheated_Foil_Bleeding_Into_Grain,Togo_Calfskin_Palladium_Hardware,-1.3,7.0
+AUTH-00035,Luxury Handbags,Louis Vuitton,Neverfull MM Monogram,AUTHENTIC,Interior_Heat_Stamp,Sharp_Round_O_Characteristic_Font,Coated_Canvas_Vachetta_Leather,0.0,2.0
+AUTH-00036,Luxury Handbags,Louis Vuitton,Neverfull MM Monogram,COUNTERFEIT_REPLICA,Vachetta_Glazing,Glossy_Bright_Red_Plastic_Glazing,Coated_Canvas_Vachetta_Leather,-11.16,9.0
+AUTH-00037,Limited Sneakers,Jordan Brand,Air Jordan 1 Retro High Dior,AUTHENTIC,Wing_Logo_Embossing,Deep_Crisp_Air_Dior_Debossing,Italian_Calfskin_Jacquard_Swoosh,0.0,1.0
+AUTH-00038,Limited Sneakers,Jordan Brand,Air Jordan 1 Retro High Dior,COUNTERFEIT_REPLICA,Wing_Logo_Embossing,Shallow_Stamp_Touching_Letters,Italian_Calfskin_Jacquard_Swoosh,-8.5,9.3
+AUTH-00039,Fine Jewelry,Cartier,Love Bracelet Classic Yellow Gold,AUTHENTIC,Hallmark_Stamping,Deep_Au750_Serial_Eagle_Head_Stamp,18K_Yellow_Gold_750,0.0,1.2
+AUTH-00040,High Horology,Patek Philippe,Nautilus 5711/1A-010,COUNTERFEIT_REPLICA,Bracelet_Integration,Stiff_Links_Visible_Pin_Gaps,Stainless_Steel_Sapphire,-10.18,9.0
+AUTH-00041,High Horology,Rolex,Submariner Date 126610LN,AUTHENTIC,Dial_Typography,Crisp_Serif_Font_Uniform_Spacing,904L_Oystersteel_Cerachrom,0.0,1.4
+AUTH-00042,Fine Jewelry,Cartier,Love Bracelet Classic Yellow Gold,COUNTERFEIT_REPLICA,Screw_Motif_Slotting,Rounded_Cast_Grooves_Polishing_Dip,18K_Yellow_Gold_750,-6.01,8.8
+AUTH-00043,Luxury Handbags,Hermès,Birkin 25 Togo Noir,AUTHENTIC,Stitching_Density,Hand_Sewn_Saddle_Stitch_18deg_Angle,Togo_Calfskin_Palladium_Hardware,0.0,2.0
+AUTH-00044,High Horology,Rolex,Submariner Date 126610LN,COUNTERFEIT_REPLICA,Lume_Application,Uneven_Greenish_Spillover,904L_Oystersteel_Cerachrom,-1.43,7.8
+AUTH-00045,Luxury Handbags,Hermès,Birkin 25 Togo Noir,AUTHENTIC,Turnlock_Hardware,Crisp_Engraved_Hallmark_Flush_Pins,Togo_Calfskin_Palladium_Hardware,0.0,2.1
+AUTH-00046,High Horology,Rolex,Submariner Date 126610LN,COUNTERFEIT_REPLICA,Lume_Application,Uneven_Greenish_Spillover,904L_Oystersteel_Cerachrom,-3.36,8.4
+AUTH-00047,Fine Jewelry,Cartier,Love Bracelet Classic Yellow Gold,AUTHENTIC,Screw_Motif_Slotting,Sharp_90deg_Crisp_Milled_Grooves,18K_Yellow_Gold_750,0.0,1.1
+AUTH-00048,Luxury Handbags,Louis Vuitton,Neverfull MM Monogram,COUNTERFEIT_REPLICA,Vachetta_Glazing,Glossy_Bright_Red_Plastic_Glazing,Coated_Canvas_Vachetta_Leather,-12.58,7.1
+AUTH-00049,Fine Jewelry,Cartier,Love Bracelet Classic Yellow Gold,AUTHENTIC,Screw_Motif_Slotting,Sharp_90deg_Crisp_Milled_Grooves,18K_Yellow_Gold_750,0.0,1.5
+AUTH-00050,High Horology,Patek Philippe,Nautilus 5711/1A-010,COUNTERFEIT_REPLICA,Caliber_Movement,Decorated_Miyota_9015_Fake_Bridges,Stainless_Steel_Sapphire,-18.24,7.8
+AUTH-00051,Fine Jewelry,Cartier,Love Bracelet Classic Yellow Gold,AUTHENTIC,Screw_Motif_Slotting,Sharp_90deg_Crisp_Milled_Grooves,18K_Yellow_Gold_750,0.0,2.5
+AUTH-00052,Luxury Handbags,Hermès,Birkin 25 Togo Noir,COUNTERFEIT_REPLICA,Blind_Stamp_Foil,Overheated_Foil_Bleeding_Into_Grain,Togo_Calfskin_Palladium_Hardware,-2.87,8.4
+AUTH-00053,Limited Sneakers,Jordan Brand,Air Jordan 1 Retro High Dior,AUTHENTIC,Wing_Logo_Embossing,Deep_Crisp_Air_Dior_Debossing,Italian_Calfskin_Jacquard_Swoosh,0.0,1.2
+AUTH-00054,High Horology,Rolex,Submariner Date 126610LN,COUNTERFEIT_REPLICA,Lume_Application,Uneven_Greenish_Spillover,904L_Oystersteel_Cerachrom,-3.53,8.0
+AUTH-00055,Luxury Handbags,Hermès,Birkin 25 Togo Noir,AUTHENTIC,Blind_Stamp_Foil,Clean_Heat_Pressed_Palladium_Foil,Togo_Calfskin_Palladium_Hardware,0.0,1.4
+AUTH-00056,High Horology,Rolex,Submariner Date 126610LN,COUNTERFEIT_REPLICA,Dial_Typography,Blurry_Ink_Bleed_Irregular_Kerning,904L_Oystersteel_Cerachrom,-1.32,7.1
+AUTH-00057,Fine Jewelry,Cartier,Love Bracelet Classic Yellow Gold,AUTHENTIC,Screw_Motif_Slotting,Sharp_90deg_Crisp_Milled_Grooves,18K_Yellow_Gold_750,0.0,2.3
+AUTH-00058,Limited Sneakers,Jordan Brand,Air Jordan 1 Retro High Dior,COUNTERFEIT_REPLICA,Outsole_Translucency,Cloudy_Grey_Sole_Fuzzy_Logo,Italian_Calfskin_Jacquard_Swoosh,-18.38,9.0
+AUTH-00059,High Horology,Patek Philippe,Nautilus 5711/1A-010,AUTHENTIC,Date_Window_Frame,Beveled_Polished_White_Gold_Frame,Stainless_Steel_Sapphire,0.0,1.0
+AUTH-00060,High Horology,Patek Philippe,Nautilus 5711/1A-010,COUNTERFEIT_REPLICA,Date_Window_Frame,Flat_Stamped_Steel_Rough_Edges,Stainless_Steel_Sapphire,-1.78,8.7
+AUTH-00061,Luxury Handbags,Louis Vuitton,Neverfull MM Monogram,AUTHENTIC,Interior_Heat_Stamp,Sharp_Round_O_Characteristic_Font,Coated_Canvas_Vachetta_Leather,0.0,2.1
+AUTH-00062,Limited Sneakers,Jordan Brand,Air Jordan 1 Retro High Dior,COUNTERFEIT_REPLICA,Swoosh_Jacquard,Low_Res_Blurry_Oblique_Spacing,Italian_Calfskin_Jacquard_Swoosh,-14.06,9.1
+AUTH-00063,Luxury Handbags,Louis Vuitton,Neverfull MM Monogram,AUTHENTIC,Canvas_Symmetry,Exact_Monogram_Alignment_Across_Seams,Coated_Canvas_Vachetta_Leather,0.0,1.5
+AUTH-00064,High Horology,Patek Philippe,Nautilus 5711/1A-010,COUNTERFEIT_REPLICA,Bracelet_Integration,Stiff_Links_Visible_Pin_Gaps,Stainless_Steel_Sapphire,-8.54,8.4
+AUTH-00065,High Horology,Patek Philippe,Nautilus 5711/1A-010,AUTHENTIC,Caliber_Movement,26-330_SC_FreeSprung_Gyromax,Stainless_Steel_Sapphire,0.0,1.4
+AUTH-00066,High Horology,Patek Philippe,Nautilus 5711/1A-010,COUNTERFEIT_REPLICA,Bracelet_Integration,Stiff_Links_Visible_Pin_Gaps,Stainless_Steel_Sapphire,-10.43,9.4
+AUTH-00067,High Horology,Rolex,Submariner Date 126610LN,AUTHENTIC,Dial_Typography,Crisp_Serif_Font_Uniform_Spacing,904L_Oystersteel_Cerachrom,0.0,1.2
+AUTH-00068,Luxury Handbags,Hermès,Birkin 25 Togo Noir,COUNTERFEIT_REPLICA,Blind_Stamp_Foil,Overheated_Foil_Bleeding_Into_Grain,Togo_Calfskin_Palladium_Hardware,-3.33,8.3
+AUTH-00069,Luxury Handbags,Louis Vuitton,Neverfull MM Monogram,AUTHENTIC,Interior_Heat_Stamp,Sharp_Round_O_Characteristic_Font,Coated_Canvas_Vachetta_Leather,0.0,2.0
+AUTH-00070,Fine Jewelry,Cartier,Love Bracelet Classic Yellow Gold,COUNTERFEIT_REPLICA,Screw_Motif_Slotting,Rounded_Cast_Grooves_Polishing_Dip,18K_Yellow_Gold_750,-4.56,9.5
+AUTH-00071,Fine Jewelry,Cartier,Love Bracelet Classic Yellow Gold,AUTHENTIC,Screw_Motif_Slotting,Sharp_90deg_Crisp_Milled_Grooves,18K_Yellow_Gold_750,0.0,1.5
+AUTH-00072,Luxury Handbags,Hermès,Birkin 25 Togo Noir,COUNTERFEIT_REPLICA,Blind_Stamp_Foil,Overheated_Foil_Bleeding_Into_Grain,Togo_Calfskin_Palladium_Hardware,-2.3,9.3
+AUTH-00073,Luxury Handbags,Louis Vuitton,Neverfull MM Monogram,AUTHENTIC,Vachetta_Glazing,Matte_Deep_Burgundy_Edge_Paint,Coated_Canvas_Vachetta_Leather,0.0,2.4
+AUTH-00074,High Horology,Patek Philippe,Nautilus 5711/1A-010,COUNTERFEIT_REPLICA,Bracelet_Integration,Stiff_Links_Visible_Pin_Gaps,Stainless_Steel_Sapphire,-10.66,8.5
+AUTH-00075,Luxury Handbags,Louis Vuitton,Neverfull MM Monogram,AUTHENTIC,Interior_Heat_Stamp,Sharp_Round_O_Characteristic_Font,Coated_Canvas_Vachetta_Leather,0.0,1.1
+AUTH-00076,High Horology,Rolex,Submariner Date 126610LN,COUNTERFEIT_REPLICA,Cyclops_Lens,Weak_1.5x_Magnification_Blue_Tint,904L_Oystersteel_Cerachrom,0.33,6.8
+AUTH-00077,Fine Jewelry,Cartier,Love Bracelet Classic Yellow Gold,AUTHENTIC,Screw_Motif_Slotting,Sharp_90deg_Crisp_Milled_Grooves,18K_Yellow_Gold_750,0.0,2.5
+AUTH-00078,High Horology,Patek Philippe,Nautilus 5711/1A-010,COUNTERFEIT_REPLICA,Date_Window_Frame,Flat_Stamped_Steel_Rough_Edges,Stainless_Steel_Sapphire,-2.34,9.4
+AUTH-00079,High Horology,Rolex,Submariner Date 126610LN,AUTHENTIC,Lume_Application,Chromalight_Blue_Even_Fill,904L_Oystersteel_Cerachrom,0.0,1.8
+AUTH-00080,Limited Sneakers,Jordan Brand,Air Jordan 1 Retro High Dior,COUNTERFEIT_REPLICA,Outsole_Translucency,Cloudy_Grey_Sole_Fuzzy_Logo,Italian_Calfskin_Jacquard_Swoosh,-18.7,8.5
+AUTH-00081,Luxury Handbags,Hermès,Birkin 25 Togo Noir,AUTHENTIC,Turnlock_Hardware,Crisp_Engraved_Hallmark_Flush_Pins,Togo_Calfskin_Palladium_Hardware,0.0,2.4
+AUTH-00082,High Horology,Rolex,Submariner Date 126610LN,COUNTERFEIT_REPLICA,Lume_Application,Uneven_Greenish_Spillover,904L_Oystersteel_Cerachrom,-2.98,8.7
+AUTH-00083,Fine Jewelry,Cartier,Love Bracelet Classic Yellow Gold,AUTHENTIC,Hallmark_Stamping,Deep_Au750_Serial_Eagle_Head_Stamp,18K_Yellow_Gold_750,0.0,1.9
+AUTH-00084,Limited Sneakers,Jordan Brand,Air Jordan 1 Retro High Dior,COUNTERFEIT_REPLICA,Wing_Logo_Embossing,Shallow_Stamp_Touching_Letters,Italian_Calfskin_Jacquard_Swoosh,-7.05,7.6
+AUTH-00085,Fine Jewelry,Cartier,Love Bracelet Classic Yellow Gold,AUTHENTIC,Screw_Motif_Slotting,Sharp_90deg_Crisp_Milled_Grooves,18K_Yellow_Gold_750,0.0,2.2
+AUTH-00086,Limited Sneakers,Jordan Brand,Air Jordan 1 Retro High Dior,COUNTERFEIT_REPLICA,Outsole_Translucency,Cloudy_Grey_Sole_Fuzzy_Logo,Italian_Calfskin_Jacquard_Swoosh,-19.63,7.1
+AUTH-00087,Luxury Handbags,Louis Vuitton,Neverfull MM Monogram,AUTHENTIC,Canvas_Symmetry,Exact_Monogram_Alignment_Across_Seams,Coated_Canvas_Vachetta_Leather,0.0,2.1
+AUTH-00088,High Horology,Rolex,Submariner Date 126610LN,COUNTERFEIT_REPLICA,Lume_Application,Uneven_Greenish_Spillover,904L_Oystersteel_Cerachrom,-3.15,7.7
+AUTH-00089,High Horology,Rolex,Submariner Date 126610LN,AUTHENTIC,Lume_Application,Chromalight_Blue_Even_Fill,904L_Oystersteel_Cerachrom,0.0,2.0
+AUTH-00090,High Horology,Rolex,Submariner Date 126610LN,COUNTERFEIT_REPLICA,Dial_Typography,Blurry_Ink_Bleed_Irregular_Kerning,904L_Oystersteel_Cerachrom,-2.26,8.3
+AUTH-00091,Fine Jewelry,Cartier,Love Bracelet Classic Yellow Gold,AUTHENTIC,Screw_Motif_Slotting,Sharp_90deg_Crisp_Milled_Grooves,18K_Yellow_Gold_750,0.0,1.8
+AUTH-00092,High Horology,Patek Philippe,Nautilus 5711/1A-010,COUNTERFEIT_REPLICA,Caliber_Movement,Decorated_Miyota_9015_Fake_Bridges,Stainless_Steel_Sapphire,-19.07,8.8
+AUTH-00093,High Horology,Patek Philippe,Nautilus 5711/1A-010,AUTHENTIC,Caliber_Movement,26-330_SC_FreeSprung_Gyromax,Stainless_Steel_Sapphire,0.0,1.2
+AUTH-00094,Limited Sneakers,Jordan Brand,Air Jordan 1 Retro High Dior,COUNTERFEIT_REPLICA,Outsole_Translucency,Cloudy_Grey_Sole_Fuzzy_Logo,Italian_Calfskin_Jacquard_Swoosh,-19.56,7.8
+AUTH-00095,High Horology,Rolex,Submariner Date 126610LN,AUTHENTIC,Rehaut_Engraving,Laser_Etched_Aligned_Minute_Markers,904L_Oystersteel_Cerachrom,0.0,2.1
+AUTH-00096,Luxury Handbags,Louis Vuitton,Neverfull MM Monogram,COUNTERFEIT_REPLICA,Canvas_Symmetry,Cut_Off_LV_Logo_Asymmetric_Pattern,Coated_Canvas_Vachetta_Leather,-35.95,8.0
+AUTH-00097,High Horology,Rolex,Submariner Date 126610LN,AUTHENTIC,Rehaut_Engraving,Laser_Etched_Aligned_Minute_Markers,904L_Oystersteel_Cerachrom,0.0,1.3
+AUTH-00098,Luxury Handbags,Hermès,Birkin 25 Togo Noir,COUNTERFEIT_REPLICA,Turnlock_Hardware,Laser_Printed_Logo_Protruding_Screws,Togo_Calfskin_Palladium_Hardware,-24.47,7.9
+AUTH-00099,Limited Sneakers,Jordan Brand,Air Jordan 1 Retro High Dior,AUTHENTIC,Outsole_Translucency,Icy_Blue_Tint_Sharp_Dior_Logo_Underneath,Italian_Calfskin_Jacquard_Swoosh,0.0,1.3
+AUTH-00100,High Horology,Rolex,Submariner Date 126610LN,COUNTERFEIT_REPLICA,Cyclops_Lens,Weak_1.5x_Magnification_Blue_Tint,904L_Oystersteel_Cerachrom,0.26,8.4
+AUTH-00101,Fine Jewelry,Cartier,Love Bracelet Classic Yellow Gold,AUTHENTIC,Hallmark_Stamping,Deep_Au750_Serial_Eagle_Head_Stamp,18K_Yellow_Gold_750,0.0,2.5
+AUTH-00102,Luxury Handbags,Hermès,Birkin 25 Togo Noir,COUNTERFEIT_REPLICA,Stitching_Density,Machine_Lockstitch_Straight_Line,Togo_Calfskin_Palladium_Hardware,-14.15,8.9
+AUTH-00103,Luxury Handbags,Louis Vuitton,Neverfull MM Monogram,AUTHENTIC,Canvas_Symmetry,Exact_Monogram_Alignment_Across_Seams,Coated_Canvas_Vachetta_Leather,0.0,2.1
+AUTH-00104,High Horology,Patek Philippe,Nautilus 5711/1A-010,COUNTERFEIT_REPLICA,Bracelet_Integration,Stiff_Links_Visible_Pin_Gaps,Stainless_Steel_Sapphire,-11.12,9.7
+AUTH-00105,Luxury Handbags,Hermès,Birkin 25 Togo Noir,AUTHENTIC,Stitching_Density,Hand_Sewn_Saddle_Stitch_18deg_Angle,Togo_Calfskin_Palladium_Hardware,0.0,2.5
+AUTH-00106,High Horology,Rolex,Submariner Date 126610LN,COUNTERFEIT_REPLICA,Cyclops_Lens,Weak_1.5x_Magnification_Blue_Tint,904L_Oystersteel_Cerachrom,-2.18,7.4
+AUTH-00107,High Horology,Patek Philippe,Nautilus 5711/1A-010,AUTHENTIC,Bracelet_Integration,Smooth_Articulated_Center_Links,Stainless_Steel_Sapphire,0.0,1.7
+AUTH-00108,Luxury Handbags,Louis Vuitton,Neverfull MM Monogram,COUNTERFEIT_REPLICA,Interior_Heat_Stamp,Oval_O_Thick_Uneven_Lettering,Coated_Canvas_Vachetta_Leather,-6.59,7.6
+AUTH-00109,High Horology,Rolex,Submariner Date 126610LN,AUTHENTIC,Dial_Typography,Crisp_Serif_Font_Uniform_Spacing,904L_Oystersteel_Cerachrom,0.0,2.3
+AUTH-00110,High Horology,Rolex,Submariner Date 126610LN,COUNTERFEIT_REPLICA,Cyclops_Lens,Weak_1.5x_Magnification_Blue_Tint,904L_Oystersteel_Cerachrom,-1.04,8.0
+AUTH-00111,Fine Jewelry,Cartier,Love Bracelet Classic Yellow Gold,AUTHENTIC,Hallmark_Stamping,Deep_Au750_Serial_Eagle_Head_Stamp,18K_Yellow_Gold_750,0.0,2.2
+AUTH-00112,High Horology,Rolex,Submariner Date 126610LN,COUNTERFEIT_REPLICA,Lume_Application,Uneven_Greenish_Spillover,904L_Oystersteel_Cerachrom,-1.0,8.1
+AUTH-00113,High Horology,Rolex,Submariner Date 126610LN,AUTHENTIC,Rehaut_Engraving,Laser_Etched_Aligned_Minute_Markers,904L_Oystersteel_Cerachrom,0.0,1.8
+AUTH-00114,Luxury Handbags,Louis Vuitton,Neverfull MM Monogram,COUNTERFEIT_REPLICA,Interior_Heat_Stamp,Oval_O_Thick_Uneven_Lettering,Coated_Canvas_Vachetta_Leather,-6.08,9.4
+AUTH-00115,Luxury Handbags,Hermès,Birkin 25 Togo Noir,AUTHENTIC,Turnlock_Hardware,Crisp_Engraved_Hallmark_Flush_Pins,Togo_Calfskin_Palladium_Hardware,0.0,1.2
+AUTH-00116,Luxury Handbags,Hermès,Birkin 25 Togo Noir,COUNTERFEIT_REPLICA,Blind_Stamp_Foil,Overheated_Foil_Bleeding_Into_Grain,Togo_Calfskin_Palladium_Hardware,-1.51,8.4
+AUTH-00117,Fine Jewelry,Cartier,Love Bracelet Classic Yellow Gold,AUTHENTIC,Screw_Motif_Slotting,Sharp_90deg_Crisp_Milled_Grooves,18K_Yellow_Gold_750,0.0,2.3
+AUTH-00118,High Horology,Rolex,Submariner Date 126610LN,COUNTERFEIT_REPLICA,Dial_Typography,Blurry_Ink_Bleed_Irregular_Kerning,904L_Oystersteel_Cerachrom,-1.73,8.2
+AUTH-00119,Fine Jewelry,Cartier,Love Bracelet Classic Yellow Gold,AUTHENTIC,Screw_Motif_Slotting,Sharp_90deg_Crisp_Milled_Grooves,18K_Yellow_Gold_750,0.0,2.3
+AUTH-00120,High Horology,Rolex,Submariner Date 126610LN,COUNTERFEIT_REPLICA,Cyclops_Lens,Weak_1.5x_Magnification_Blue_Tint,904L_Oystersteel_Cerachrom,-1.58,7.9
+AUTH-00121,High Horology,Patek Philippe,Nautilus 5711/1A-010,AUTHENTIC,Date_Window_Frame,Beveled_Polished_White_Gold_Frame,Stainless_Steel_Sapphire,0.0,1.4
+AUTH-00122,High Horology,Patek Philippe,Nautilus 5711/1A-010,COUNTERFEIT_REPLICA,Date_Window_Frame,Flat_Stamped_Steel_Rough_Edges,Stainless_Steel_Sapphire,-3.0,8.8
+AUTH-00123,High Horology,Rolex,Submariner Date 126610LN,AUTHENTIC,Dial_Typography,Crisp_Serif_Font_Uniform_Spacing,904L_Oystersteel_Cerachrom,0.0,1.2
+AUTH-00124,Fine Jewelry,Cartier,Love Bracelet Classic Yellow Gold,COUNTERFEIT_REPLICA,Screw_Motif_Slotting,Rounded_Cast_Grooves_Polishing_Dip,18K_Yellow_Gold_750,-5.91,8.9
+AUTH-00125,High Horology,Rolex,Submariner Date 126610LN,AUTHENTIC,Cyclops_Lens,Exact_2.5x_Magnification_AntiReflective,904L_Oystersteel_Cerachrom,0.0,1.0
+AUTH-00126,Luxury Handbags,Hermès,Birkin 25 Togo Noir,COUNTERFEIT_REPLICA,Blind_Stamp_Foil,Overheated_Foil_Bleeding_Into_Grain,Togo_Calfskin_Palladium_Hardware,-1.66,8.2
+AUTH-00127,Fine Jewelry,Cartier,Love Bracelet Classic Yellow Gold,AUTHENTIC,Screw_Motif_Slotting,Sharp_90deg_Crisp_Milled_Grooves,18K_Yellow_Gold_750,0.0,1.8
+AUTH-00128,High Horology,Patek Philippe,Nautilus 5711/1A-010,COUNTERFEIT_REPLICA,Date_Window_Frame,Flat_Stamped_Steel_Rough_Edges,Stainless_Steel_Sapphire,-2.0,8.7
+AUTH-00129,Luxury Handbags,Hermès,Birkin 25 Togo Noir,AUTHENTIC,Blind_Stamp_Foil,Clean_Heat_Pressed_Palladium_Foil,Togo_Calfskin_Palladium_Hardware,0.0,1.7
+AUTH-00130,Limited Sneakers,Jordan Brand,Air Jordan 1 Retro High Dior,COUNTERFEIT_REPLICA,Outsole_Translucency,Cloudy_Grey_Sole_Fuzzy_Logo,Italian_Calfskin_Jacquard_Swoosh,-20.34,9.0
+AUTH-00131,Luxury Handbags,Hermès,Birkin 25 Togo Noir,AUTHENTIC,Stitching_Density,Hand_Sewn_Saddle_Stitch_18deg_Angle,Togo_Calfskin_Palladium_Hardware,0.0,1.7
+AUTH-00132,Luxury Handbags,Hermès,Birkin 25 Togo Noir,COUNTERFEIT_REPLICA,Stitching_Density,Machine_Lockstitch_Straight_Line,Togo_Calfskin_Palladium_Hardware,-16.24,7.4
+AUTH-00133,Limited Sneakers,Jordan Brand,Air Jordan 1 Retro High Dior,AUTHENTIC,Outsole_Translucency,Icy_Blue_Tint_Sharp_Dior_Logo_Underneath,Italian_Calfskin_Jacquard_Swoosh,0.0,1.3
+AUTH-00134,Luxury Handbags,Hermès,Birkin 25 Togo Noir,COUNTERFEIT_REPLICA,Blind_Stamp_Foil,Overheated_Foil_Bleeding_Into_Grain,Togo_Calfskin_Palladium_Hardware,-3.78,9.6
+AUTH-00135,Luxury Handbags,Louis Vuitton,Neverfull MM Monogram,AUTHENTIC,Interior_Heat_Stamp,Sharp_Round_O_Characteristic_Font,Coated_Canvas_Vachetta_Leather,0.0,1.1
+AUTH-00136,Luxury Handbags,Louis Vuitton,Neverfull MM Monogram,COUNTERFEIT_REPLICA,Canvas_Symmetry,Cut_Off_LV_Logo_Asymmetric_Pattern,Coated_Canvas_Vachetta_Leather,-35.71,8.9
+AUTH-00137,Limited Sneakers,Jordan Brand,Air Jordan 1 Retro High Dior,AUTHENTIC,Outsole_Translucency,Icy_Blue_Tint_Sharp_Dior_Logo_Underneath,Italian_Calfskin_Jacquard_Swoosh,0.0,2.3
+AUTH-00138,Fine Jewelry,Cartier,Love Bracelet Classic Yellow Gold,COUNTERFEIT_REPLICA,Screw_Motif_Slotting,Rounded_Cast_Grooves_Polishing_Dip,18K_Yellow_Gold_750,-3.42,6.9
+AUTH-00139,High Horology,Patek Philippe,Nautilus 5711/1A-010,AUTHENTIC,Date_Window_Frame,Beveled_Polished_White_Gold_Frame,Stainless_Steel_Sapphire,0.0,2.3
+AUTH-00140,High Horology,Patek Philippe,Nautilus 5711/1A-010,COUNTERFEIT_REPLICA,Caliber_Movement,Decorated_Miyota_9015_Fake_Bridges,Stainless_Steel_Sapphire,-18.8,9.4
+AUTH-00141,Luxury Handbags,Louis Vuitton,Neverfull MM Monogram,AUTHENTIC,Vachetta_Glazing,Matte_Deep_Burgundy_Edge_Paint,Coated_Canvas_Vachetta_Leather,0.0,2.1
+AUTH-00142,Limited Sneakers,Jordan Brand,Air Jordan 1 Retro High Dior,COUNTERFEIT_REPLICA,Swoosh_Jacquard,Low_Res_Blurry_Oblique_Spacing,Italian_Calfskin_Jacquard_Swoosh,-14.62,7.6
+AUTH-00143,Fine Jewelry,Cartier,Love Bracelet Classic Yellow Gold,AUTHENTIC,Screw_Motif_Slotting,Sharp_90deg_Crisp_Milled_Grooves,18K_Yellow_Gold_750,0.0,1.3
+AUTH-00144,High Horology,Patek Philippe,Nautilus 5711/1A-010,COUNTERFEIT_REPLICA,Date_Window_Frame,Flat_Stamped_Steel_Rough_Edges,Stainless_Steel_Sapphire,-3.58,9.2
+AUTH-00145,Fine Jewelry,Cartier,Love Bracelet Classic Yellow Gold,AUTHENTIC,Screw_Motif_Slotting,Sharp_90deg_Crisp_Milled_Grooves,18K_Yellow_Gold_750,0.0,2.4
+AUTH-00146,High Horology,Patek Philippe,Nautilus 5711/1A-010,COUNTERFEIT_REPLICA,Bracelet_Integration,Stiff_Links_Visible_Pin_Gaps,Stainless_Steel_Sapphire,-9.17,9.1
+AUTH-00147,High Horology,Rolex,Submariner Date 126610LN,AUTHENTIC,Dial_Typography,Crisp_Serif_Font_Uniform_Spacing,904L_Oystersteel_Cerachrom,0.0,1.1
+AUTH-00148,Limited Sneakers,Jordan Brand,Air Jordan 1 Retro High Dior,COUNTERFEIT_REPLICA,Wing_Logo_Embossing,Shallow_Stamp_Touching_Letters,Italian_Calfskin_Jacquard_Swoosh,-7.22,8.5
+AUTH-00149,Luxury Handbags,Louis Vuitton,Neverfull MM Monogram,AUTHENTIC,Interior_Heat_Stamp,Sharp_Round_O_Characteristic_Font,Coated_Canvas_Vachetta_Leather,0.0,2.2
+AUTH-00150,High Horology,Rolex,Submariner Date 126610LN,COUNTERFEIT_REPLICA,Cyclops_Lens,Weak_1.5x_Magnification_Blue_Tint,904L_Oystersteel_Cerachrom,0.09,7.2
